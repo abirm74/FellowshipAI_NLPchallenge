@@ -33,11 +33,6 @@ pip install -r requirements.txt
 
 3. Run the Jupyter notebooks in the `notebooks` directory to explore the code and analysis.
 
-## Usage
-
-1. Follow the Jupyter notebooks in the `notebooks` directory to understand the project's workflow and analysis steps.
-
-2. To run the predictive models, use the provided scripts or notebooks in the `models` directory.
 
 ## To-Do
 
