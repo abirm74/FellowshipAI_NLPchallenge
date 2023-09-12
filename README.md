@@ -23,7 +23,7 @@ This GitHub repository contains my solution to the Sentiment Analysis challenge 
 To get started with this project, follow the instructions below:
 
 1. Clone the repository to your local machine:
-git clone [https://github.com/your-username/sentiment-analysis-imdb.git](https://github.com/abirm74/FellowshipAI_NLPchallenge.git)https://github.com/abirm74/FellowshipAI_NLPchallenge.git
+git clone (https://github.com/abirm74/FellowshipAI_NLPchallenge.git)https://github.com/abirm74/FellowshipAI_NLPchallenge.git
   
 2. Install the required dependencies by running:
 
