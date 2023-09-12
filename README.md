@@ -1,4 +1,6 @@
 # Sentiment Analysis on IMDb Movie Review Dataset
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-IMDb%20Dataset-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 ## Overview
 
