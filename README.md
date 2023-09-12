@@ -23,7 +23,7 @@ This GitHub repository contains my solution to the Sentiment Analysis challenge 
 To get started with this project, follow the instructions below:
 
 1. Clone the repository to your local machine:
-git clone (https://github.com/abirm74/FellowshipAI_NLPchallenge.git)https://github.com/abirm74/FellowshipAI_NLPchallenge.git
+git clone (https://github.com/abirm74/FellowshipAI_NLPchallenge.git)
   
 2. Install the required dependencies by running:
 
@@ -50,7 +50,7 @@ The deployment phase involves making the sentiment analysis model accessible thr
 ## References
 
 - [FellowshipAI](https://www.fellowship.ai/)
-- [IMDb Movie Review Dataset]((https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews))
+- [IMDb Movie Review Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 Feel free to explore the code and contribute to this project. If you have any questions or suggestions, please don't hesitate to reach out.
 
