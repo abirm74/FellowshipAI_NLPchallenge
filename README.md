@@ -24,14 +24,8 @@ This GitHub repository contains my solution to the Sentiment Analysis challenge 
 
 To get started with this project, follow the instructions below:
 
-1. Clone the repository to your local machine:
+ Clone the repository to your local machine:
 git clone (https://github.com/abirm74/FellowshipAI_NLPchallenge.git)
-  
-2. Install the required dependencies by running:
-
-pip install -r requirements.txt
-
-3. Run the Jupyter notebooks in the `notebooks` directory to explore the code and analysis.
 
 
 ## To-Do
