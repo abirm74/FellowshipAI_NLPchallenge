@@ -14,7 +14,7 @@ This GitHub repository contains my solution to the Sentiment Analysis challenge 
   - [x] Support Vector Machine (SVM)
   - [x] XGBoost
   - [x] Logistic Regression
-
+  - [x] Naive Bayes
 ### To-Do Tasks
 - [ ] Bag of words
 - [ ] Predictive Modeling with Deep Learning
