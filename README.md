@@ -16,7 +16,7 @@ This GitHub repository contains my solution to the Sentiment Analysis challenge 
   - [x] Logistic Regression
 
 ### To-Do Tasks
-
+- [ ] Bag of words
 - [ ] Predictive Modeling with Deep Learning
 - [ ] Deployment
 
